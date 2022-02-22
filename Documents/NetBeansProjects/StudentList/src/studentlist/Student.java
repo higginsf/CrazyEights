@@ -1,7 +1,7 @@
 /*
  Date Jan 26, 2022 
  Author: Fallon H
- Comments: This is a comment
+ Comments: This is a comment.
  */
 package studentlist;
 
